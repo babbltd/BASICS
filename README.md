@@ -1,4 +1,4 @@
-# BASICS-App
+# BASICS
 
 Business Assistance System for Individual and Community Success
 
