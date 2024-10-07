@@ -1,6 +1,9 @@
+---
+words:
+  2024-10-07: 53
+---
 # BASICS
 
-Business Assistance System for Individual and Community Success
+Business Assistance System
 
-BASICS is a protocol for operating business-focused applications via the Web, and on standalone devices without reliance on the Internet.
-BASICS Applications provide security and resiliency while deployable to the least sophisticated devices.
+A Coordination Protocol helps to manage complexity and ensure consistency in how tools, technologies and people work together. Our 'CP' is called BASICS, which stands for 'Business Assistance System'. Just as the BASIC computer language sought to increase access to programming, we are now expanding access to business management.
